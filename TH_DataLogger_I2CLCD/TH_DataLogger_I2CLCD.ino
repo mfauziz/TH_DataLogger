@@ -1,13 +1,13 @@
 /*
  ********************************
  Latest Date: 3 Ogos 2018
- Latest Time: 12:23:50 PM
+ Latest Time: 13:00:00 PM
  PLATFORM: ARDUINO MEGA
  ********************************
  
  The circuit of I2C LCD:
- * SCL pin to SCL
- * SDA pin to SDA
+ * SCL pin to D21(SCL)
+ * SDA pin to D20(SDA)
  * VCC pin to 5V
  * Gnd pin to GND
   
@@ -22,8 +22,8 @@
  * Gnd pin to GND
 
  The circuit of RTC DS1307 module
- * SCL pin to SCL
- * SDA pin to SDA
+ * SCL pin to D21(SCL)
+ * SDA pin to D20(SDA)
  * VCC pin to 5V
  * Gnd pin to GND
 
