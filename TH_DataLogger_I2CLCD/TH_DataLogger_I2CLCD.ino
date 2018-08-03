@@ -28,10 +28,10 @@
  * Gnd pin to GND
 
  The circuit of SDCard module
- * SCK pin to D13
- * MISO pin to D12
- * MOSI pin to D11
- * CS pin to D10
+ * SCK pin to D52
+ * MISO pin to D50
+ * MOSI pin to D51
+ * CS pin to D53
  * VCC pin to 5V
  * Gnd pin to GND 
  
